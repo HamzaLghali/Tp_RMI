@@ -17,7 +17,7 @@ import javax.persistence.OneToMany;
 
 /**
  *
- * @author vanha
+ * @author lghali
  */
 
 @Entity
