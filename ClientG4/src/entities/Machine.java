@@ -4,7 +4,10 @@
  * and open the template in the editor.
  */
 package entities;
-
+/**
+ *
+ * @author lghali
+ */
 import java.io.Serializable;
 
 public class Machine implements Serializable{
